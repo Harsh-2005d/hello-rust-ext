@@ -10,5 +10,5 @@ crate-type = ["cdylib"]
 
 [dependencies]
 pyo3 = "0.28.3"
-rand = { git = "https://github.com/rust-random/rand", tag = "0.9.0" }
+rand = "0.9.0"
 
